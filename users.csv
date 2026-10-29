@@ -1,0 +1,3 @@
+username,password,role,name,email,phone
+coach,adminpassword,admin,Coach (Master Control),coach@sentinel.com,555-0100
+jose,password,athlete,Jose Herrera,,
